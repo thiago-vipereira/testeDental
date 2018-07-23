@@ -1,0 +1,6 @@
+#botao:hover > span > svg > path  {
+    fill:white !important;
+}
+#botao:hover > span > svg > polygon  {
+    fill:white !important;
+}

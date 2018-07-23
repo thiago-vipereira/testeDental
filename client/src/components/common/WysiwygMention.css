@@ -1,0 +1,21 @@
+.mention {
+  background-color: #dfdfdf;
+  /* user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none; */
+  border-radius: 2px;
+  padding: 0px 2px;
+}
+.notAllowed {
+  background-color: #cc4c29;
+  border-radius: 2px;
+  padding: 0px 2px;
+  color: #dfdfdf;
+}
+.fr-box {
+  height: 100%;
+  display: grid;
+  grid-template-rows: 0fr 1fr;
+}

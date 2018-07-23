@@ -1,0 +1,6 @@
+```jsx
+    <InputSearch
+        placeholder="Pesquisar..."
+    
+    />
+```

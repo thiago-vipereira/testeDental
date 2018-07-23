@@ -1,0 +1,21 @@
+export const COLORS = {
+	primary: '#45AFE5',
+	secondary: '#d9d9d9',
+	green: '#12B23B',
+	green2: '#42C0B8',
+	greenDark: '#009927',
+	greenDark2: '#3cada5',
+	red: '#CC4C29',
+	redDark: '#B23412',
+	blue: '#2995CC',
+	blueDark: '#006599',
+	grey85: '#d9d9d9',
+	grey77: '#c4c4c4',
+	grey65: '#a6a6a6',
+	grey50: '#7f7f7f',
+	grey35: '#595959',
+	grey25: '#404040',
+	grey15: '#262626',
+	gradient: 'linear-gradient(135deg, #45AFE5 0%, #45E5D5 100%)',
+	white: '#FFF'
+};

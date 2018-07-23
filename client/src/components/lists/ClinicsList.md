@@ -1,0 +1,1 @@
+The user variable is from section.
